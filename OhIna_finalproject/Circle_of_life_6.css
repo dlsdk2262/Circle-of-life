@@ -1,0 +1,27 @@
+<style>
+      body{padding: 0px;}
+      #life{
+      font-size:60px;
+      color:blue;
+      text-align: center;
+      font-family: cursive;
+      }
+     img{
+       display: block; margin: auto;
+
+      }
+     .group button:hover{
+       color: white;
+       background-color: skyblue;
+     }
+     button{
+       border-top-left-radius: 5px; border-bottom-left-radius: 5px; margin-right:-4px;
+     border-top-right-radius:5px; border-bottom-right-radius:5px;
+     border: 1px solid skyblue;
+     background-color:yellow;
+     color: skyblue;
+     padding: 5px
+
+     }
+
+  </StYLE>
